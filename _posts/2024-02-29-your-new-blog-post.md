@@ -1,10 +1,6 @@
 # Yahoo Fantasy Team 1: 12-team 5x5 Roto
 ## This is my first blog post
 
-
-First Draft
-
-
 ![Yahoo team 1 batting](https://github.com/JamesAas/JamesAas.io/assets/158230844/038b3ae1-2188-4f40-a846-edec97c10584)
 
 C - Contreras is great, got him at the end of the draft, high upside, cheap.
