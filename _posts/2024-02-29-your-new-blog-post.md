@@ -13,32 +13,45 @@ C - Contreras is great, got him at the end of the draft, high upside, cheap.
 
 SS - I probably should have a backup SS on my team but I don’t. I ended up missing all the SS I liked so I grabbed an upside play. I’m worried about his groundball rate and where he’ll hit in the lineup, but this was long after pick 200, so if he flops he flops. But having a Holliday share (he’s the number 1 prospect in baseball) is really fun. He's gonna get 2B eligibility because that's where he'll play. He just got a couple hits at the top of the Orioles lineup in the 2/29 game so I have a little more faith now.
 
-OF 1- Tatis is gonna outperform his draft position this year, 5 cat guy with Acuna upside. 
-OF 2 - Randy is just Randy, keeps my options open
-3 - Bryan Reynolds is one of my favorite picks this year. I got him super late and he’s a boring pick but I pick I love.
+OF1- Tatis is gonna outperform his draft position this year, 5 cat guy with Acuna upside. 
+
+OF2 - Randy is just Randy, keeps my options open
+
+OF3 - Bryan Reynolds is one of my favorite picks this year. I got him super late and he’s a boring pick but I pick I love.
 
 UT - Shohei is going to start going a lot earlier than the start of the 2nd round now that people are seeing him in spring training. His stats from last year were 102/44/95/20/.304 and he played for the Angels and pitched most of the year. I’m confident he’ll provide easy first round value, if not top-5 value this year.
+
 UT 2 - Isaac is an upside play, he should give me another 30 HR, definitely light on steals but the rest of my lineup makes that okay, his statcast page looks wonky but that’s because he intentionally pulls the ball so his power metrics look inconsistent with his results, but he’s still gonna put up 30 HR.
 
-BN - Nootbar as an upside outfield play here. 
+BN1 - Nootbar as an upside outfield play here. 
 
 
 
 ![Yahoo team 1 pitching](https://github.com/JamesAas/JamesAas.io/assets/158230844/53dc2da2-8a3d-4d36-819e-327c759187a2)
 
-SP 1, 2:  Pablo and Bobby Miller are an elite duo here. I got them in rounds 4 and 7 respectively and they’re gonna be anchors who should outperform those draft picks. I had the option between Pablo and Luis Castillo and I kinda regret not going for Castillo if only for sake of diversifying and because I think Pablo will tend to be available a little later. I like Pablo slightly more for this year but I have a lot of shares now. 
+SP 1 and 2:  Pablo and Bobby Miller are an elite duo here. I got them in rounds 4 and 7 respectively and they’re gonna be anchors who should outperform those draft picks. I had the option between Pablo and Luis Castillo and I kinda regret not going for Castillo if only for sake of diversifying and because I think Pablo will tend to be available a little later. I like Pablo slightly more for this year but I have a lot of shares now. 
 
-RP 1, 2- Diaz should be RP 1 after this year, discount due to injury means I get insane value on him.
-Kimbrel is a rock at the back of my bullpen and should be good for a ton of saves with the Orioles this year.
+RP1 - Diaz should be RP 1 after this year, discount due to injury means I get insane value on him.
 
-P 5, 6, 7, 8 - The Kyle Bradish UCL partial tear sucks, but hopefully he’s back sooner rather than later cuz I love him. I don't have a lot of faith he'll pitch this year, which is a tough start for this team. Luckily I drafted pitching depth galore. 
-Ragans is my favorite player to draft this year, the spring training clips look insane, he’s added more Induced Vertical Break (IVB) to his fastball and he’s gonna be even filthier. Bryan Woo is by far the better Seattle pitcher of the Bryce and Bryan combo and he’s amazing. 
-Imanaga is so cheap in drafts for an obvious top-40 SP. 
-Bello is an upside play with a new slide and who can’t love a guy being coached by Pedro. 
-McKenzie will be good if he stays healthy, 
-Sanchez looks absolutely incredible and will probably stick on my team this whole year, while Crawford is another upside play for pitchers here. 
+RP2 - Kimbrel is a rock at the back of my bullpen and should be good for a ton of saves with the Orioles this year.
 
-My rotation looks elite and it's just a matter of playing the bats waiver wire, probably will end up dropping McKenzie for a bat.
+P5 - The Kyle Bradish UCL partial tear sucks, but hopefully he’s back sooner rather than later cuz I love him. I don't have a lot of faith he'll pitch this year, which is a tough start for this team. Luckily I drafted pitching depth galore. 
+
+P6 - Ragans is my favorite player to draft this year, the spring training clips look insane (he's throwing gas!), he’s added more Induced Vertical Break (IVB) to his fastball and he’s gonna be even filthier.
+
+P7 - Bryan Woo is by far the better Seattle pitcher of the Bryce and Bryan combo and he’s amazing. 
+
+P8 - Imanaga is so cheap in drafts for an obvious top-40 SP. 
+
+BN2 - Bello is an upside play with a new slide and who can’t love a guy being coached by Pedro. 
+
+BN3 - McKenzie will be good if he can stay healthy, I like the IL risk as a flier.  
+
+BN4 - Sanchez looks absolutely incredible and will probably stick on my team this whole year, while Crawford is another upside play for pitchers here. 
+
+
+General thoughts:
+My rotation looks elite and it's just a matter of playing the bats waiver wire, even with the Bradish injury I probably will end up dropping McKenzie for a bat.
 
 
  ```tsql
