@@ -30,3 +30,11 @@ McKenzie will be good if he stays healthy,
 Sanchez looks absolutely incredible and will probably stick on my team this whole year, while Crawford is another upside play for pitchers here. 
 
 My rotation looks elite and it's just a matter of playing the bats waiver wire, probably will end up dropping McKenzie for a bat.
+
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+
