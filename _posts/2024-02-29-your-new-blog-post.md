@@ -5,6 +5,7 @@
 First Draft
 
 
+![Yahoo team 1 batting](https://github.com/JamesAas/JamesAas.io/assets/158230844/038b3ae1-2188-4f40-a846-edec97c10584)
 
 C - Contreras is great, got him at the end of the draft, high upside, cheap.
 1B - Love tork, he was the last of the big 4 middle-round 1B that I liked (casas, vinnie p, naylor tork), so I took him. Should be good power but definitely have to balance his average. 
@@ -19,7 +20,10 @@ Isaac is an upside play, he should give me another 30 HR, definitely light on st
 BN - Nootbar as an upside outfield play here. 
 
 
-SP 1, 2:  Pablo and Bobby Miller are an elite duo here. I got them in rounds 4 and 7 respectively and they’re gonna be anchors who should outperform those draft picks. 
+
+![Yahoo team 1 pitching](https://github.com/JamesAas/JamesAas.io/assets/158230844/53dc2da2-8a3d-4d36-819e-327c759187a2)
+
+SP 1, 2:  Pablo and Bobby Miller are an elite duo here. I got them in rounds 4 and 7 respectively and they’re gonna be anchors who should outperform those draft picks. I had the option between Pablo and Luis Castillo and I kinda regret not going for Castillo if only for sake of diversifying and because I think Pablo will tend to be available a little later. I like Pablo slightly more for this year but I have a lot of shares now. 
 RP - Diaz should be RP 1 after this year, discount due to injury means I get insane value on him.
 Kimbrel is a rock at the back of my bullpen and should be good for a ton of saves with the Orioles this year.
 P  - Kyle Bradish injury sucks, but hopefully he’s back sooner rather than later cuz I love him. 
