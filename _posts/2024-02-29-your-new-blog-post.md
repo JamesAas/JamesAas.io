@@ -53,10 +53,3 @@ BN4 - Sanchez looks absolutely incredible and will probably stick on my team thi
 General thoughts:
 My rotation looks elite and it's just a matter of playing the bats waiver wire, even with the Bradish injury I probably will end up dropping McKenzie for a bat.
 
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
-
